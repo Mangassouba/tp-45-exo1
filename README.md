@@ -11,6 +11,10 @@
     ```bash
     npm install
 
+## Modélisation du projet
+
+[UML](./assets/uml.png)
+
 ## autor
 
 Hama Houllah Mangassouba
